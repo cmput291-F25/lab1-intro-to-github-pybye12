@@ -2,4 +2,4 @@
 Name: Abdul Haq Bin Abdul Rehman
 CCID: abdulha7
 Lecture: A2
-Lab: D07
+Lab: D05
